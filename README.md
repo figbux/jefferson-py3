@@ -1,5 +1,5 @@
 # jefferson
-JFFS2 filesystem extraction tool
+JFFS2 filesystem extraction tool, python3 version (experimental)
 
 Installation
 ============
